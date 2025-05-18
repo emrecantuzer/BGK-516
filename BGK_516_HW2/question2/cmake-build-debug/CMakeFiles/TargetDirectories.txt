@@ -1,0 +1,3 @@
+C:/Users/emrecan/Desktop/BGK_516_HW2/question2/cmake-build-debug/CMakeFiles/question2.dir
+C:/Users/emrecan/Desktop/BGK_516_HW2/question2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emrecan/Desktop/BGK_516_HW2/question2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
